@@ -4,3 +4,5 @@ This repository is related to my thesis project about a deep learning approach t
 * the “train” folder includes a pre-trained generator model that allows the generation of synthetic cell registration data. It also includes the script “CenterSurr.py” that allows you to train a center-surround network from scratch.
 
 * the “test” folder includes a pre-trained center-surround network and a testing python script to perform cell registration on an example dataset. Note the input file formats to the python script. 
+
+Special thanks to Dr. Fung and Dr. Wong supervising me throughout this project
