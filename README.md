@@ -5,4 +5,4 @@ This repository is related to my thesis project about a deep learning approach t
 
 * the “test” folder includes a pre-trained center-surround network and a testing python script to perform cell registration on an example dataset. Note the input file formats to the python script. 
 
-Special thanks to Dr. Fung and Dr. Wong supervising me throughout this project
+Special thanks to Dr. Fung and Dr. Wong for supervising me throughout this project
